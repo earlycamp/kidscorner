@@ -1,0 +1,22 @@
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+    background-color: forestgreen;
+}
+.title{
+color: forestgreen;
+background-color: lightgoldenrodyellow;
+}
+h1{
+    font-size: 100px;
+}
+.heading{
+    color: yellowgreen;
+    background-color: lightgoldenrodyellow;
+}
+.subheading{
+    color: yellowgreen;
+    background-color: lightgoldenrodyellow;
+}
+.par1{
+    background-color: lightgoldenrodyellow;
+}

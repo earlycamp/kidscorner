@@ -1,3 +1,7 @@
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+    background-color: forestgreen;
+}
 .title{
 color: forestgreen;
 background-color: lightgoldenrodyellow;
@@ -5,7 +9,7 @@ background-color: lightgoldenrodyellow;
 h1{
     font-size: 100px;
 }
-.heading{
+.welcominghead{
     color: yellowgreen;
     background-color: lightgoldenrodyellow;
 }
