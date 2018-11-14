@@ -1,6 +1,30 @@
 body{
-    font-family: 'KoHo', sans-serif;
     background-color: green;
+}
+.card1{
+    font-family: 'Roboto', sans-serif;
+}
+.card2{
     font-family: 'Allerta Stencil', sans-serif;
-   
+
+}
+.card3{
+    font-family: 'Archivo', sans-serif;
+}
+.card4{
+    font-family: 'Open Sans', sans-serif;
+
+}
+.card5{
+    font-family: 'Montserrat', sans-serif;
+}
+.card6{
+    font-family: 'Niramit', sans-serif;
+}
+.card7{
+    font-family: 'Oswald', sans-serif;
+}
+.card8{
+    font-family: 'Spicy Rice', cursive;
+
 }
