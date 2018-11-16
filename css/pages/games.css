@@ -1,23 +1,20 @@
 body{
     font-family: 'Gloria Hallelujah', cursive;
+    background-color: yellowgreen;
 }
 .title{
-color: forestgreen;
-background-color: lightgoldenrodyellow;
+color: white;
 }
 h1{
     font-size: 100px;
 }
-.welcominghead{
-    color: yellowgreen;
-    background-color: lightgoldenrodyellow;
-    text-align: center;
+.heading{
+    color: white;
 }
 .subheading{
-    color: yellowgreen;
+    color: white;
     background-color: lightgoldenrodyellow;
 }
 .par1{
-    background-color: lightgoldenrodyellow;
-    text-align: center;
+     color: white;
 }
