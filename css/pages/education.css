@@ -1,3 +1,11 @@
 body{
-    background-color: green;
+    background-color: #163A06;
+    font-family: 'Patrick Hand', cursive;
+    color: black;
+}
+.heading{
+    color: white;
+}
+.text1{
+    color: white;
 }
