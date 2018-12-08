@@ -1,6 +1,6 @@
 body{
     font-family: 'Patrick Hand', cursive;
-    background-color: #163A06;
+    background-color:#163A06;
 }
 .title{
 color: white;
@@ -13,8 +13,8 @@ h1{
 }
 .subheading{
     color: white;
-    background-color: lightgoldenrodyellow;
 }
-.par1{
-     color: white;
+.par{
+  color: white;
+  font-size: 30px;    
 }

@@ -1,6 +1,6 @@
 body{
     font-family: 'Patrick Hand', cursive;
-    background-color: yellowgreen;
+    background-color:#163A06;
 }
 .title{
 color: white;
@@ -10,10 +10,19 @@ h1{
 }
 .heading{
     color: white;
+    font-size: 50px;
 }
 .subheading{
     color: white;
+    font-size: 40px;
 }
 .par{
   color: white;
+font-size: 25px;    
+}
+.Featuredstoryhead{
+    color: #ffc107;
+}
+.unlink{
+    color: #ffc107;
 }
