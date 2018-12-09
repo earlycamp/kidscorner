@@ -1,3 +1,13 @@
 body{
-    background-color: green;
+    background-color: purple;
+    font-family: 'Patrick Hand', cursive;
+}
+.heading{
+    color: white;
+}
+.text1{
+    color: white;
+}
+.card{
+    color: darkgreen;
 }
