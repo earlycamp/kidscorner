@@ -1,8 +1,10 @@
 body{
-font-family: 'Patrick Hand','cursive';
-	background-color:#163A06;
-	
+
+	background-color: yellow;
 }
 .heading{
 	color: white;
+}
+.parg1{
+	color: darkblue;
 }
